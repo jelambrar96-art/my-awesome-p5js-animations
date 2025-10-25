@@ -1,0 +1,5 @@
+*.json
+librairies/
+animations/*/librairies/
+animations/template/
+*.mp4
